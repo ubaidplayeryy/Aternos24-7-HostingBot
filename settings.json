@@ -1,7 +1,7 @@
 {
   "name": "chou chou smp robot",
   "bot-account": {
-    "username": "botsever1",
+    "username": "bot",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "animecity2.aternos.me",
     "port": 46065,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
