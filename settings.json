@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "chou chou bot",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "animecity2.aternos.me",
+    "port": 46065,
     "version": "",
     "try-creative": false
   },
